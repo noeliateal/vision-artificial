@@ -56,6 +56,28 @@ Puedes descargarlos aquí:
 - Loss: Categorical Crossentropy  
 - Métrica: Accuracy  
 
+---
+
+## ▶️ Cómo descargar y ejecutar este proyecto
+
+Sigue estos pasos para ejecutar el proyecto en tu propio ordenador:
+
+### 1️⃣ Descargar el proyecto
+Haz clic en el botón **Code** (arriba a la derecha en este repositorio) y selecciona:
+
+➡️ **Download ZIP**
+
+Después, descomprime el archivo en tu ordenador.
+
+---
+
+### 2️⃣ Instalar dependencias necesarias
+
+Abre **Terminal**, **CMD** o **PowerShell** y escribe:
+
+```bash
+pip install tensorflow keras opencv-python numpy matplotlib
+
 
 
 
