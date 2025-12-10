@@ -38,7 +38,7 @@ Debido al tamaño de estos archivos, **no están incluidos en este repositorio**
 
 Puedes descargarlos aquí:
 
-👉 https://drive.google.com/tu-enlace-aqui
+👉 [https://drive.google.com/tu-enlace-aqui](https://drive.google.com/drive/folders/1dk1TzFnmZ3BkwRNytpr7MRWavj0DQJD2?usp=sharing)
 
 ---
 
@@ -55,4 +55,5 @@ Puedes descargarlos aquí:
 - Optimizer: Adam  
 - Loss: Categorical Crossentropy  
 - Métrica: Accuracy  
+
 
